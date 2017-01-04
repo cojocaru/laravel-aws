@@ -1,0 +1,13 @@
+{
+    "name": "cojocaru/laravel-aws",
+    "description": "Amazon AWS wrapper for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cojocaru Vadim",
+            "email": "cojocaru.vadim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
