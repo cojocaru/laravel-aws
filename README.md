@@ -1,3 +1,3 @@
 # laravel-aws
 ## Amazon AWS wrapper for Laravel
-Alpha version
+Alpha version - not ready for production yet
